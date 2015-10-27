@@ -2,7 +2,6 @@ package com.vadim19.CalculateNumber;
 
 import java.util.Scanner;
 
-
 public class CalculateNumber {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
